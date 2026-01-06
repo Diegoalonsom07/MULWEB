@@ -1,3 +1,7 @@
-Sandbox de Pruebas
-----------------------------------------------------------------
-Este repositorio está destinado exclusivamente a la realización de pruebas, experimentos técnicos y aprendizaje personal. El contenido aquí alojado es temporal, carece de un propósito de producción y sirve como un espacio seguro para testear configuraciones o flujos de trabajo antes de implementarlos en proyectos reales.
+-----------------------------------------------------------
+|      NOMBRE     |                 GITHUB                |
+|-----------------|---------------------------------------|
+| Carla Fernandez | https://github.com/CarlaFernandezTaus |
+| Darío Busto     | https://github.com/Dabusss            |
+| Alvaro García   | https://github.com/Garza7             |
+-----------------------------------------------------------
